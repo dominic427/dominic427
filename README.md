@@ -55,7 +55,7 @@ GitHub History/Stats
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
 
 
-<img align="right" width="150" src="https://i.pinimg.com/originals/c2/40/88/c240887a140f5d47a7994ead58c52b0f.gif"/>
+<img align="right" width="150" src="ilovekirb.gif"/>
 
 
 <details>
